@@ -1,2 +1,76 @@
 # OpenCV-Static-Motio-Detection-Project
- I have built a static motion detection project where we There is a Region of Intrest(ROI) to detect the Motion Inside the ROI
+ I have built a static motion detection project where we There is a Region of Intrest(ROI) which helps to detect the motion inside that region only.
+
+
+# 🧠 OpenCV Static Motion Detection Project
+
+This project demonstrates a **Static Motion Detection System** built using **OpenCV** and **Python**.
+There is a defined **Region of Intrest(ROI)** It allows users to detect motion **only within that ROI area** of the video frame.
+
+---
+
+## 🎯 Project Overview
+
+The goal of this project is to identify movement in a **specific region** of a video feed.
+This can be useful for surveillance applications where you only care about motion in a certain zone (for example, a doorway, window, or specific part of a room).
+
+---
+
+## 🧩 Features
+
+* 🎥 **Real-Time Motion Detection** using webcam or video file.
+* ⚡ **Motion Detection Inside ROI Only.**
+* 🚨 **Alert Display:** Motion Detection alerts appear at the top of the Video Frame.
+
+---
+
+## 🛠️ Built With
+
+* **Python 3.x**
+* **OpenCV (cv2)**
+* **NumPy**
+
+---
+
+## 🚀 How It Works
+
+1. The video stream is captured using **OpenCV**.
+2. The system compares the current frame ROI with a reference background frame ROI.
+3. If significant pixel differences are detected **within any ROI**, a **motion alert** is displayed on that region.
+
+---
+
+## 💻 Installation & Setup
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/<vidyasagar2405>/OpenCV-Static-Motion-Detection-Project.git
+   cd OpenCV-Static-Motion-Detection-Project
+   ```
+
+2. **Install Dependencies:**
+
+   ```bash
+   pip install opencv-python numpy
+   ```
+
+3. **Run the Project:**
+
+   ```bash
+   python motion_detection.py
+   ```
+
+---
+
+## 📸 Demo Video
+
+[https://github.com/](https://github.com/)<vidyasagar2405>/OpenCV-Static-Motion-Detection-Project/assets/your-demo-video.mp4
+
+
+---
+
+## 🧑‍💻 Author
+
+**[Vidya Sagar]**
+💼 GitHub: [vidyasagar2405](https://github.com/vidyasagar2405)
