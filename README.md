@@ -61,7 +61,7 @@ This can be useful for surveillance applications where you only care about motio
 
 ## 📸 Demo Video
 
-[https://github.com/](https://github.com/)<vidyasagar2405>/OpenCV-Static-Motion-Detection-Project/assets/your-demo-video.mp4
+[demo_video](https://youtu.be/ma9wXHnOX_g)
 
 
 ---
