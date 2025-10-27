@@ -1,7 +1,3 @@
-# OpenCV-Static-Motio-Detection-Project
- I have built a static motion detection project where we There is a Region of Intrest(ROI) which helps to detect the motion inside that region only.
-
-
 # 🧠 OpenCV Static Motion Detection Project
 
 This project demonstrates a **Static Motion Detection System** built using **OpenCV** and **Python**.
